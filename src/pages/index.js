@@ -9,7 +9,7 @@ const Index = () => (
     <Status />
     <View title="Bienvenue chez IT Corail à Liège">
       <p>
-        IT Corail se veut un partenaire de services informatiques pour toutes les entreprises, administrations et associations en région liégeoise. 
+        La société IT Corail se veut un partenaire de services informatiques pour toutes les entreprises, administrations et associations en région liégeoise. 
       </p>
       
       <p>Création de sites web, gestion de bases de données, noms de domaines, sécurité, nous pouvons rapidement préparer un devis pour vous aider à développer vos projets.
