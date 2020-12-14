@@ -1,6 +1,6 @@
 {
   "name": "gatsby-demo-simple-auth",
-  "description": "Gatsby demo of simplified authentication flow.",
+  "description": "Essai de site Corail.",
   "version": "1.0.0",
   "author": "Jason Lengstorf <jason@lengstorf.com>",
   "dependencies": {
